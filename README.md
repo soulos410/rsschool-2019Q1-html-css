@@ -1,1 +1,3 @@
-# rsschool-2019Q1-html-css
+Siarhei Lisiunin
+HTML CSS Basics: https://www.codecademy.com/users/Keyko/achievements
+HTML Academy: https://htmlacademy.ru/profile/id131165/achievements
